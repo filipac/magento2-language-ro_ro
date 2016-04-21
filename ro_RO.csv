@@ -7845,7 +7845,7 @@ Veţi primi un e-mail cu un link pentru a reseta parola.","module","Magento_User
 "Widget ID","Widget ID","module","Magento_Widget",,
 "Wish List","Lista de","module","Magento_Wishlist",,
 "Wish List Sharing","Lista de partajare","module","Magento_Wishlist",,
-"My Wish List","Lista mea","module","Magento_Wishlist",,
+"My Wish List","Lista favorite","module","Magento_Wishlist",,
 "%1's Wish List","%1's doresc listă","module","Magento_Wishlist",,
 "Page not found.","Pagina nu a fost găsită.","module","Magento_Wishlist",,
 "We can't specify a product.","Nu putem preciza un produs.","module","Magento_Wishlist",,
